@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">💻 Linguagens: Python, Java, JavaScript, C, C#, C++.<br>🛠️ Tecnologias: MySQL, Oracle, Figma, HTML5, CSS3.<br>🤖 Interesses atuais: Machine Learning, Planejamento Automático (PDDL) e Sistemas Multiagentes.</p>
+<p align="left">💻 Linguagens: Python, Java, JavaScript, C, C#, C++.<br>🛠️ Tecnologias: MySQL, Oracle, Figma, HTML, CSS.<br>🤖 Interesses atuais: Machine Learning, Planejamento Automático (PDDL) e Sistemas Multiagentes.</p>
 
 ###
 
